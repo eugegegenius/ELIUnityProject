@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{d34ada1e-3bf7-ddc2-efd7-42e009adb569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.vegetationspawner.runtime", "sc.vegetationspawner.runtime.csproj", "{bca2052d-64b3-5631-8fdd-84efac27a5e7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.vegetationspawner.editor", "sc.vegetationspawner.editor.csproj", "{9e41efaa-138b-5d45-5f80-61a056572430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{d34ada1e-3bf7-ddc2-efd7-42e009adb569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d34ada1e-3bf7-ddc2-efd7-42e009adb569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bca2052d-64b3-5631-8fdd-84efac27a5e7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bca2052d-64b3-5631-8fdd-84efac27a5e7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9e41efaa-138b-5d45-5f80-61a056572430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9e41efaa-138b-5d45-5f80-61a056572430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

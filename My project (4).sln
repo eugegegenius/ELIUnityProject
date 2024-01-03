@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.vegetationspawner.runtime", "sc.vegetationspawner.runtime.csproj", "{DF9BEC13-A3B7-145E-BF8E-42683B4A8FA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.vegetationspawner.editor", "sc.vegetationspawner.editor.csproj", "{56B6C08D-B773-3038-ECF2-E30FDBA5A0A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9BEC13-A3B7-145E-BF8E-42683B4A8FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9BEC13-A3B7-145E-BF8E-42683B4A8FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9BEC13-A3B7-145E-BF8E-42683B4A8FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9BEC13-A3B7-145E-BF8E-42683B4A8FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B6C08D-B773-3038-ECF2-E30FDBA5A0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B6C08D-B773-3038-ECF2-E30FDBA5A0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B6C08D-B773-3038-ECF2-E30FDBA5A0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B6C08D-B773-3038-ECF2-E30FDBA5A0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
